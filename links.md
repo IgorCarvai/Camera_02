@@ -42,3 +42,5 @@ Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 Andrew Aquino   https://github.com/dawneraq/heremin
 
 Emily Rauseo https://github.com/EmeraldOx/SnowVideoProject.git
+
+Lareb Pirzada: https://github.com/lp625/Camera_02
